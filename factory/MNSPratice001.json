@@ -1,0 +1,9 @@
+{
+	"name": "MNSPratice001",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "64a2b99d-967a-457c-8457-e08e9ffcc618",
+		"tenantId": "91d65ab0-3592-4ab2-8629-593b2b251959"
+	}
+}
